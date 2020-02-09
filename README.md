@@ -8,15 +8,3 @@ Ceated an angular 8 project initially (https://github.com/Diljish/angularSample)
 
 Migrated angular 8 to angular 9  (https://update.angular.io/#8.0:9.0)
 
-
-
-Importants:
-
-Smaller bundle sizes
-Faster testing
-Better debugging
-Improved CSS class and style binding
-Improved type checking
-Improved build errors
-Improved build times, enabling AOT on by default
-Improved Internationalization.
